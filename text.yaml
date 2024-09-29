@@ -1,0 +1,4 @@
+train: /home/jupyter/datasphere/project/photo_augmented_n_smokers/train
+val: /home/jupyter/datasphere/project/photo_augmented_n_smokers/val
+nc: 2  
+names: ['notsmoking', 'smoking'] 
